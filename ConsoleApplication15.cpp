@@ -71,7 +71,7 @@
 //    return 0;
 //}
 
-
+//======================седьмое задание========================
 //#include <iostream>
 //using namespace std;
 //int main() {
@@ -94,5 +94,6 @@
 //    cout << endl;
 //    return 0;
 //}
+
 
 
